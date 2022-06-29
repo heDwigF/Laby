@@ -1,5 +1,4 @@
--#Laby
-+#Name of repo: Laby
+#Name of repo: Laby
 Tasks:
 1. Each programming task requires using at least one new pattern.
 2. Code should be well commented (method descriptions, hard reading and big
